@@ -1,0 +1,6 @@
+# Ignore agent directories
+.agents/
+
+# Ignore PDF and video files
+*.pdf
+*.mp4
